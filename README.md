@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Manas Kar!
+
+* I am an Assistant Professor at the [Department of Mathematics](https://maths.iiserb.ac.in/), [IISER Bhopal](https://www.iiserb.ac.in/).
+* I am interested in PDE.
+
 
 <!--
 **manaskar5/manaskar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
